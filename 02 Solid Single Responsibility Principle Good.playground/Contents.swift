@@ -11,7 +11,7 @@ class PlaceOrder {
         self.product = product
     }
     
-    public func run() {
+    func run() {
         StockAvailability(product).run()
         ProductPayment(product).run()
         ProductShipment(product).run()

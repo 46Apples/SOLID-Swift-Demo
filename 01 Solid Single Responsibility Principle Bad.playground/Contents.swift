@@ -11,7 +11,7 @@ class PlaceOrder {
         self.product = product
     }
     
-    public func run() {
+    func run() {
         print("1. Logic related to verification of stock availability")
         print("2. Logic related to payment process")
         print("3. Logic related to shipment process")
