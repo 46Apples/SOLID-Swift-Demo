@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "01 Single Responsibility Principle">
+      <FileRef
+         location = "group:/Users/wayne.delport/Documents/solid copy/01 Solid-Single-Responsibility-Principle-Bad.playground">
+      </FileRef>
+      <FileRef
+         location = "group:02 Solid-Single-Responsibility-Principle-Good.playground">
+      </FileRef>
+   </Group>
+</Workspace>
