@@ -21,4 +21,11 @@
          location = "group:Open-Closed Principle Overview.playground">
       </FileRef>
    </Group>
+   <Group
+      location = "container:"
+      name = "03 Liskov Substitution Principle">
+      <FileRef
+         location = "group:Liskov Substitution Principle Overview.playground">
+      </FileRef>
+   </Group>
 </Workspace>
