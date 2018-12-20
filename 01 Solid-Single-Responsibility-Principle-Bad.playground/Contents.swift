@@ -14,7 +14,7 @@
  
  */
 
-/* GOOD */
+/* BAD */
 
 import UIKit
 

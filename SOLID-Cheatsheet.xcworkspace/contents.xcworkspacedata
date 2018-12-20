@@ -5,7 +5,7 @@
       location = "container:"
       name = "01 Single Responsibility Principle">
       <FileRef
-         location = "group:/Users/wayne.delport/Documents/solid copy/01 Solid-Single-Responsibility-Principle-Bad.playground">
+         location = "group:01 Solid-Single-Responsibility-Principle-Bad.playground">
       </FileRef>
       <FileRef
          location = "group:02 Solid-Single-Responsibility-Principle-Good.playground">
