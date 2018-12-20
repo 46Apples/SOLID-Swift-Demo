@@ -33,6 +33,9 @@
       <FileRef
          location = "group:Liskov Substitution Principle Overview.playground">
       </FileRef>
+      <FileRef
+         location = "group:01 Liskov Substitution Principle Bad.playground">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
