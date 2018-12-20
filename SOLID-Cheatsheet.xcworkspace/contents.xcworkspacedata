@@ -43,6 +43,9 @@
       <FileRef
          location = "group:Interface Segregation Principle Overview.playground">
       </FileRef>
+      <FileRef
+         location = "group:01 Interface Segregation Principle Bad.playground">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
