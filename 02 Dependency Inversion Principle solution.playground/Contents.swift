@@ -10,6 +10,7 @@ class EventTracker {
     private let logger: Logger
     
     init (_ logger: Logger) {
+        // Use dependency injection as in closed/open principle. Logger is a protocol definition (abstract), not a concrete class
         self.logger = logger
     }
     
@@ -31,6 +32,12 @@ class FileLogger: Logger {
 }
 
 
-// Main loop
-let eventTracker = EventTracker(ConsoleLogger())
-eventTracker.log("Test logging message")
+// Run main
+let message = "Test DIP logging message"
+
+let consoleEventTracker = EventTracker(ConsoleLogger())
+consoleEventTracker.log(message)
+
+let fileEventTracker = EventTracker(FileLogger())
+fileEventTracker.log(message)
+

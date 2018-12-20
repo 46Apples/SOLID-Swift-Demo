@@ -5,13 +5,13 @@
       location = "container:"
       name = "01 Single Responsibility Principle">
       <FileRef
-         location = "group:/Users/wayne.delport/Documents/fred/solid-cheatsheet/Single Responsibility Principle Overview.playground">
+         location = "group:Single Responsibility Principle Overview.playground">
       </FileRef>
       <FileRef
-         location = "group:/Users/wayne.delport/Documents/fred/solid-cheatsheet/01 Solid Single Responsibility Principle Bad.playground">
+         location = "group:01 Solid Single Responsibility Principle violation.playground">
       </FileRef>
       <FileRef
-         location = "group:/Users/wayne.delport/Documents/fred/solid-cheatsheet/02 Solid Single Responsibility Principle Good.playground">
+         location = "group:02 Solid Single Responsibility Principle solution.playground">
       </FileRef>
    </Group>
    <Group
@@ -21,10 +21,10 @@
          location = "group:Open-Closed Principle Overview.playground">
       </FileRef>
       <FileRef
-         location = "group:/Users/wayne.delport/Documents/fred/solid-cheatsheet/01 Open-Closed Principle Bad.playground">
+         location = "group:01 Open-Closed Principle violation.playground">
       </FileRef>
       <FileRef
-         location = "group:02 Open-Closed Principle Good.playground">
+         location = "group:02 Open-Closed Principle solution.playground">
       </FileRef>
    </Group>
    <Group
@@ -34,7 +34,7 @@
          location = "group:Liskov Substitution Principle Overview.playground">
       </FileRef>
       <FileRef
-         location = "group:01 Liskov Substitution Principle Bad.playground">
+         location = "group:01 Liskov Substitution Principle violation.playground">
       </FileRef>
    </Group>
    <Group
@@ -44,7 +44,7 @@
          location = "group:Interface Segregation Principle Overview.playground">
       </FileRef>
       <FileRef
-         location = "group:01 Interface Segregation Principle Bad.playground">
+         location = "group:01 Interface Segregation Principle violation.playground">
       </FileRef>
    </Group>
    <Group
@@ -52,6 +52,12 @@
       name = "05 Dependency Inversion Principle">
       <FileRef
          location = "group:Dependency Inversion Principle Overview.playground">
+      </FileRef>
+      <FileRef
+         location = "group:01 Dependency Inversion Principle violation.playground">
+      </FileRef>
+      <FileRef
+         location = "group:02 Dependency Inversion Principle solution.playground">
       </FileRef>
    </Group>
 </Workspace>
