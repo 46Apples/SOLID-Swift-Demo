@@ -28,4 +28,11 @@
          location = "group:Liskov Substitution Principle Overview.playground">
       </FileRef>
    </Group>
+   <Group
+      location = "container:"
+      name = "04 Interface Segregation Principle">
+      <FileRef
+         location = "group:Interface Segregation Principle Overview.playground">
+      </FileRef>
+   </Group>
 </Workspace>
