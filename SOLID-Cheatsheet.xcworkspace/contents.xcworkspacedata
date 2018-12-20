@@ -5,13 +5,20 @@
       location = "container:"
       name = "01 Single Responsibility Principle">
       <FileRef
-         location = "group:Overview.playground">
+         location = "group:/Users/wayne.delport/Documents/fred/solid-cheatsheet/Single Responsibility Principle Overview.playground">
       </FileRef>
       <FileRef
          location = "group:01 Solid-Single-Responsibility-Principle-Bad.playground">
       </FileRef>
       <FileRef
          location = "group:02 Solid-Single-Responsibility-Principle-Good.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "02 Open-Closed Principle">
+      <FileRef
+         location = "group:Open-Closed Principle Overview.playground">
       </FileRef>
    </Group>
 </Workspace>
