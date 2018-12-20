@@ -35,4 +35,11 @@
          location = "group:Interface Segregation Principle Overview.playground">
       </FileRef>
    </Group>
+   <Group
+      location = "container:"
+      name = "05 Dependency Inversion Principle">
+      <FileRef
+         location = "group:Dependency Inversion Principle Overview.playground">
+      </FileRef>
+   </Group>
 </Workspace>
